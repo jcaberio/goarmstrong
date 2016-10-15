@@ -13,7 +13,7 @@ Installation
 ------------
 
 ```
-go get https://github.com/jcaberio/goarmstrong
+go get github.com/jcaberio/goarmstrong
 ```
 
 Usage

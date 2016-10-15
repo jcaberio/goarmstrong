@@ -23,8 +23,8 @@ Usage
 package main
 
 import (
-  "fmt"
-	"github.com/jcaberio/goarmstrong"
+    "fmt"
+    "github.com/jcaberio/goarmstrong"
 )
 
 func main() {

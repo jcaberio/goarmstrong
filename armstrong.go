@@ -3,7 +3,7 @@ package goarmstrong
 
 import "math"
 
-// Return true if number is an Armstrong number, false otherwise.
+//IsArmstrong returns true if number is an armstrong number, false otherwise.
 func IsArmstrong(number int64) bool {
 
 	var remainder, result, n int64 = 0, 0, 0
